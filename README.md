@@ -7,7 +7,7 @@ Currently, I am only using the `/posts` endpoint from JSON Placeholder, but I wo
 <!--
     repo: csharp-async-httpclient-example
     project: BasicAsync
-    About text: A C# project that hits the JSON Placeholder API using HttpClient and GetAsync.
+    About text: A C# project that uses the JSON Placeholder API using HttpClient and GetAsync.
  -->
 
 <span aria-hidden="true"><br></span>
